@@ -1,0 +1,10 @@
+Hello from IAM Role Live Demo
+
+-----------------------------
+
+
+An Amazon S3 bucket is a public cloud storage container within Amazon Web Services (AWS) Simple Storage Service designed to store and retrieve any amount of data, such as images, videos, or backups, from anywhere. Buckets offer near-infinite scalability, 99.999999999% durability, and use a flat, object-based structure rather than a traditional file system.
+
+--------------------------------------------
+
+My Destination is perfect!!!
